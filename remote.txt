@@ -1,6 +1,8 @@
-testing remote repo
+
+// testing hello world for git
 public class Hello{
-  public static void main(){
+  public static string hello(){
     system.debug('Hello');
+    return 'hello';
   }
 }
