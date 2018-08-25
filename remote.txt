@@ -1,4 +1,6 @@
 testing remote repo
-class{
-
+public class Hello{
+  public static void main(){
+    system.debug('Hello');
+  }
 }
